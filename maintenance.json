@@ -1,5 +1,5 @@
 {
-    "enabled": true,
+    "enabled": false,
     "unlock_time": "28.01.2026 20:00",
     "message": "Der Launcher ist bis zum {unlock_time} Uhr in Wartung.",
     "news_title": "Wartungs-News",
