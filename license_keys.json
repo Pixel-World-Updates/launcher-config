@@ -1,1 +1,7 @@
-
+{
+  "keys": {
+    "ABC-123-XYZ": "creator",
+    "VIP-999-TEST": "premium",
+    "BETA-KEY-777": "beta"
+  }
+}
