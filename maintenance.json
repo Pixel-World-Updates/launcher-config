@@ -1,6 +1,6 @@
 {
     "enabled": true,
-    "unlock_time": "2026-03-28T20:00:00",
+    "unlock_time": "2026-06-28T20:00:00",
     "message": "Der Launcher ist bis zum {unlock_time} Uhr in Wartung.",
     "news_title": "Wartungs-News",
     "news_text": "&4&lWir führen wichtige Serverarbeiten durch.\n\n&c• Stabilitätsverbesserungen\n&c• Datenbankwartung\n&c• Vorbereitung auf das nächste Update\n\n&4&lEnde der Wartung: {unlock_time} Uhr"
